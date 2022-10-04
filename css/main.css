@@ -161,6 +161,11 @@ footer {
 	align-items: center;
 	flex-flow: column wrap;
 }
+
+footer h3 {
+	white-space: nowrap;
+}
+
 footer span {
 	font-family: 'Galada', cursive;
 	text-transform: lowercase;
